@@ -107,6 +107,8 @@ Projekt został zaprojektowany z naciskiem na **czytelność, prostotę analizy 
 
 ## 📊 Przykładowy widok dashboardu
 
-Poniżej znajduje się przykładowy snapshot Sales Analysis Dashboard, prezentujący kluczowe wskaźniki sprzedażowe oraz interaktywne wizualizacje:
+Poniżej znajduje się przykładowy widok Sales Analysis Dashboard, prezentujący kluczowe wskaźniki sprzedażowe z interaktywnymi wizualizacjami i filtrami.
 
-<a href="https://github.com/pompamat/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.pdf"> <img src="images/dashboard-snapshot.png" alt="Sales Analysis Dashboard" width="900"> </a>
+<a href="https://github.com/pompamat/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.pdf"> <img src="Sales%20Analysis%20Dashboard.png" alt="Sales Analysis Dashboard" width="900"> </a>
+
+<p align="center"> <a href="https://github.com/pompamat/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.pdf"> 🔗 <strong>Zobacz pełny dashboard w PDF</strong> </a> </p>
