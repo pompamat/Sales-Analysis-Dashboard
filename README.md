@@ -104,3 +104,9 @@ Dashboard może wspierać:
 **Sales Analysis Dashboard** łączy kluczowe wskaźniki sprzedażowe z interaktywnymi filtrami i wizualizacjami, dzięki czemu umożliwia szybkie zrozumienie sytuacji biznesowej.
 
 Projekt został zaprojektowany z naciskiem na **czytelność, prostotę analizy oraz możliwość dynamicznego eksplorowania danych**.
+
+## 📊 Przykładowy widok dashboardu
+
+Poniżej znajduje się przykładowy snapshot Sales Analysis Dashboard, prezentujący kluczowe wskaźniki sprzedażowe oraz interaktywne wizualizacje:
+
+<a href="https://github.com/pompamat/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.pdf"> <img src="images/dashboard-snapshot.png" alt="Sales Analysis Dashboard" width="900"> </a>
